@@ -1,0 +1,7 @@
+{
+  "name": "CalcApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
